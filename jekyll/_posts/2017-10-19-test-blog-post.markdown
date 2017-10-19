@@ -1,7 +1,7 @@
 ---
-title: "Test пост"
+title: "Тестовый пост"
 layout: post
-date: 2017-10-19 11:32
+date: 2016-07-15 11:32
 tag: Первый
 image: https://mizlv.github.io/assets/images/profile.jpg
 headerImage: true
@@ -13,4 +13,4 @@ author: lmiz
 <!-- externalLink: false -->
 ---
 
-Test блог пост.
+Тестовый блог пост.
