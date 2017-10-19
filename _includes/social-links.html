@@ -23,6 +23,12 @@
         </a>
     {% endif %}
 
+    {% if site.vk %}
+        <a class="link" data-title="vk.com/{{ site.vk }}" href="http://vk.com/{{ site.vk }}" target="_blank">
+            <svg class="icon icon-vk"><use xlink:href="#icon-vk"></use></svg>
+        </a>
+    {% endif %}
+
     {% if site.pinterest %}
         <a class="link" data-title="pinterest.com/{{ site.pinterest }}" href="http://pinterest.com/{{ site.pinterest }}" target="_blank">
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
