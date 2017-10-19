@@ -106,7 +106,6 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-I18nFilter
 
 jekyll-mentions:
     base_url: https://github.com
