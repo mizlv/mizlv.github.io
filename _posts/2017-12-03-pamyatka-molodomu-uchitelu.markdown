@@ -30,5 +30,5 @@ author: lmiz
 
 [Cкачать полную версию в PDF](https://mizlv.github.io/assets/pdf/training.pdf){:target="_blank"}
 
-[Cкачать презентацию в PPT](https://mizlv.github.io/assets/pdf/shkola-molodogo-uchitelya.pptx){:target="_blank"}
+[Cкачать презентацию в PPT](https://mizlv.github.io/assets/ppt/shkola-molodogo-uchitelya.pptx){:target="_blank"}
 
