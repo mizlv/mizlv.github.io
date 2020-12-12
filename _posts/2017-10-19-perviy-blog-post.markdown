@@ -1,7 +1,7 @@
 ---
-title: "Первый пост"
+title: "Первый урок"
 layout: post
-date: 2017-10-19 11:32
+date: 2017-10-19 19:21
 tag: Первый
 image: https://mizlv.github.io/assets/images/profile.jpg
 headerImage: true
