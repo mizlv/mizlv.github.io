@@ -9,7 +9,7 @@ image: https://mizlv.github.io/assets/images/profile.jpg
 headerImage: true
 projects: false
 hidden: false # if true, don't count this post in blog pagination
-description: "Урок по теме:"Тела вращения". Мизь Лариса Владимировна. Учитель математики высшей категории."
+description: "Урок по теме: Тела вращения. Мизь Лариса Владимировна. Учитель математики высшей категории."
 category: blog
 author: lmiz
 <!-- externalLink: false -->
@@ -40,4 +40,4 @@ author: lmiz
 3.	Математический диктант 
 4.	Работа в группах
 5.	Домашнее задание 
-6.	Итоги урока. 
+6.	Итоги урока
