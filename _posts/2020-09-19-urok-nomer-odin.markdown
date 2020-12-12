@@ -1,10 +1,11 @@
 ---
 title: "Тела вращения"
 layout: post
-date: 2020-09-19 11:32
+date: 2020-09-19 13:23
 tag: 
 - урок
 - 11 класс
+- Тела вращения
 image: https://mizlv.github.io/assets/images/profile.jpg
 headerImage: true
 projects: false
@@ -14,7 +15,8 @@ category: blog
 author: lmiz
 <!-- externalLink: false -->
 ---
-## **Цели** 
+
+### **Цели** 
 
 * обобщить, систематизировать и углубить знания по теме "Тела вращения" 
 * научить применять их при решении задач
@@ -41,3 +43,7 @@ author: lmiz
 4.	Работа в группах
 5.	Домашнее задание 
 6.	Итоги урока
+
+### **Ход урока**
+
+[Cкачать в PDF](https://mizlv.github.io/assets/pdf/tela-vrascheniya-hod-uroka.pdf){:target="_blank"}
