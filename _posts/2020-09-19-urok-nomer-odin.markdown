@@ -48,4 +48,4 @@ author: lmiz
 
 [Cкачать в PDF](https://mizlv.github.io/assets/pdf/tela-vrascheniya-hod-uroka.pdf){:target="_blank"}
 
-[Cкачать презентацию в PPT](https://mizlv.github.io/assets/ppt/tela-vras.ppt){:target="_blank"}
+[Cкачать презентацию в PPT](https://mizlv.github.io/assets/ppt/tela-vras.pptx){:target="_blank"}
