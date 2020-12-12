@@ -20,4 +20,4 @@ author: lmiz
 
 [Cкачать работу в PDF](https://mizlv.github.io/assets/pdf/magic-square.pdf){:target="_blank"}
 
-[Cкачать презентацию в PPT](https://mizlv.github.io/assets/ppt/magic-square.pdf){:target="_blank"}
+[Cкачать презентацию в PPT](https://mizlv.github.io/assets/ppt/magic-square.pptx){:target="_blank"}
